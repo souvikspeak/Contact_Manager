@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "cdaf5953-7b5d-48ee-bf3c-cfe436acb0a7",
+      "name": "Souvik Debnath",
+      "email": "souvik.debnath@refinitiv.com"
+    },
+    {
+      "id": "38d65072-f4de-4efc-b40b-a6b89bec7909",
+      "name": "abc",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "0b962e77-30db-4dc9-9f0a-a6502355bbd1",
+      "name": "rafa_legend",
+      "email": "rafa@gmail.com"
+    },
+    {
+      "id": "78b1577b-4f88-49e3-8c72-51c83f88a30c",
+      "name": "lee",
+      "email": "lee@outlook.com"
+    }
+  ]
+}
